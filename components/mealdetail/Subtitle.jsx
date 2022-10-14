@@ -10,7 +10,7 @@ export default function Subtitle({ children }) {
 }
 const styles = StyleSheet.create({
   subtitle: {
-    color: '#e2b497',
+    color: 'mediumaquamarine',
     fontSize: 18,
     fontWeight: 'bold',
     textAlign: 'center',
@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
   subtitleContainer: {
     marginHorizontal: 12,
     marginVertica: 4,
-    borderBottomColor: '#e2b497',
+    borderBottomColor: 'mediumaquamarine',
     borderBottomWidth: 2,
   },
 });

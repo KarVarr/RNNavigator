@@ -67,10 +67,10 @@ const styles = StyleSheet.create({
     fontSize: 24,
     margin: 8,
     textAlign: 'center',
-    color: 'white',
+    color: 'steelblue',
   },
   detailText: {
-    color: 'white',
+    color: 'steelblue',
   },
   listOuterContainer: {
     alignItems: 'center',
